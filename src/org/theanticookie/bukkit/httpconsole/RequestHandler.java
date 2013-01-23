@@ -2,7 +2,7 @@ package org.theanticookie.bukkit.httpconsole;
 
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.command.ConsoleCommandSender;
-import org.bukkit.craftbukkit.v1_4_6.CraftServer;
+import org.bukkit.craftbukkit.v1_4_R1.CraftServer;
 
 import java.io.Writer;
 import java.io.StringWriter;
