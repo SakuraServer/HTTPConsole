@@ -1,20 +1,30 @@
 # Eclipse stuff
-/.classpath
-/.project
-/.settings
+.classpath
+.project
+.settings
 
 # netbeans
 /nbproject
 
-#IntelliJ
-/.idea
-/*.iml
+# maven
+build.xml
+target
 
-# various other potential build files
-/bin
-/dist
-/manifest.mf
+# vim
+.*.sw[a-p]
 
 # Mac filesystem dust
 .DS_Store
-/target
+
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# others
+*.dat
+*.tmp
+/*.gitignore
+lib
+.checkstyle/BookEditor
